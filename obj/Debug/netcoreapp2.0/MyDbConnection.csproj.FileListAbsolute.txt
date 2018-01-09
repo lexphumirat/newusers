@@ -1,0 +1,10 @@
+/Users/lexphumirat/Dropbox/codingDojo/CSharp/MyDbConnection/bin/Debug/netcoreapp2.0/MyDbConnection.deps.json
+/Users/lexphumirat/Dropbox/codingDojo/CSharp/MyDbConnection/bin/Debug/netcoreapp2.0/MyDbConnection.runtimeconfig.json
+/Users/lexphumirat/Dropbox/codingDojo/CSharp/MyDbConnection/bin/Debug/netcoreapp2.0/MyDbConnection.runtimeconfig.dev.json
+/Users/lexphumirat/Dropbox/codingDojo/CSharp/MyDbConnection/bin/Debug/netcoreapp2.0/MyDbConnection.dll
+/Users/lexphumirat/Dropbox/codingDojo/CSharp/MyDbConnection/bin/Debug/netcoreapp2.0/MyDbConnection.pdb
+/Users/lexphumirat/Dropbox/codingDojo/CSharp/MyDbConnection/obj/Debug/netcoreapp2.0/MyDbConnection.csproj.CoreCompileInputs.cache
+/Users/lexphumirat/Dropbox/codingDojo/CSharp/MyDbConnection/obj/Debug/netcoreapp2.0/MyDbConnection.AssemblyInfoInputs.cache
+/Users/lexphumirat/Dropbox/codingDojo/CSharp/MyDbConnection/obj/Debug/netcoreapp2.0/MyDbConnection.AssemblyInfo.cs
+/Users/lexphumirat/Dropbox/codingDojo/CSharp/MyDbConnection/obj/Debug/netcoreapp2.0/MyDbConnection.dll
+/Users/lexphumirat/Dropbox/codingDojo/CSharp/MyDbConnection/obj/Debug/netcoreapp2.0/MyDbConnection.pdb
